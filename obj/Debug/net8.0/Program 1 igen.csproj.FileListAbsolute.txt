@@ -1,0 +1,14 @@
+C:\Users\axaf07001\Desktop\Ny mapp\Program 1 igen\bin\Debug\net8.0\Program 1 igen.exe
+C:\Users\axaf07001\Desktop\Ny mapp\Program 1 igen\bin\Debug\net8.0\Program 1 igen.deps.json
+C:\Users\axaf07001\Desktop\Ny mapp\Program 1 igen\bin\Debug\net8.0\Program 1 igen.runtimeconfig.json
+C:\Users\axaf07001\Desktop\Ny mapp\Program 1 igen\bin\Debug\net8.0\Program 1 igen.dll
+C:\Users\axaf07001\Desktop\Ny mapp\Program 1 igen\bin\Debug\net8.0\Program 1 igen.pdb
+C:\Users\axaf07001\Desktop\Ny mapp\Program 1 igen\obj\Debug\net8.0\Program 1 igen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axaf07001\Desktop\Ny mapp\Program 1 igen\obj\Debug\net8.0\Program 1 igen.AssemblyInfoInputs.cache
+C:\Users\axaf07001\Desktop\Ny mapp\Program 1 igen\obj\Debug\net8.0\Program 1 igen.AssemblyInfo.cs
+C:\Users\axaf07001\Desktop\Ny mapp\Program 1 igen\obj\Debug\net8.0\Program 1 igen.csproj.CoreCompileInputs.cache
+C:\Users\axaf07001\Desktop\Ny mapp\Program 1 igen\obj\Debug\net8.0\Program 1 igen.dll
+C:\Users\axaf07001\Desktop\Ny mapp\Program 1 igen\obj\Debug\net8.0\refint\Program 1 igen.dll
+C:\Users\axaf07001\Desktop\Ny mapp\Program 1 igen\obj\Debug\net8.0\Program 1 igen.pdb
+C:\Users\axaf07001\Desktop\Ny mapp\Program 1 igen\obj\Debug\net8.0\Program 1 igen.genruntimeconfig.cache
+C:\Users\axaf07001\Desktop\Ny mapp\Program 1 igen\obj\Debug\net8.0\ref\Program 1 igen.dll
